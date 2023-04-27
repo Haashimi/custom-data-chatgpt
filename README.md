@@ -11,7 +11,8 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
 First command installs OpenAI library: </br>
 ```
 pip3 install openai 
-``` </br>
+``` 
+</br>
 Next, install GPT index, which is also called LlamaIndex. It allows the LLM to connect to the external data that is our knowledge base.
 - ```pip3 install gpt_index``` </br>
 
