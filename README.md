@@ -17,7 +17,6 @@ Next, install GPT index, which is also called LlamaIndex. It allows the LLM to c
 * ```
    pip3 install gpt_index
   ``` 
-
 </br>
 
 Once done, install PyPDF2 Its python based PDF parsing library and needed if you are going to feed PDF files to model.
