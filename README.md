@@ -14,13 +14,22 @@ First command installs OpenAI library: </br>
   ``` 
 </br>
 Next, install GPT index, which is also called LlamaIndex. It allows the LLM to connect to the external data that is our knowledge base.
-- ```pip3 install gpt_index``` </br>
+* ```
+pip3 install gpt_index
+``` 
+</br>
 
 Once done, install PyPDF2 Its python based PDF parsing library and needed if you are going to feed PDF files to model.
-- ```pip3 install PyPDF2``` </br>
+* ```
+pip3 install PyPDF2
+``` 
+</br>
 
 and finally install gradio which creates simple UI to interact with AI chatgpt.
-- ```pip3 install gradio``` </br>
+* ```
+pip3 install gradio
+``` 
+</br>
 
 Finally we are done with installing libraries and we can move on to creating script for training and prepare data as well.
 
