@@ -9,14 +9,14 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
 
 #### Step 3: Install libraries </br>
 First command installs OpenAI library: </br>
-- `pip3 install openai`
+- ```pip3 install openai``` </br>
 Next, install GPT index, which is also called LlamaIndex. It allows the LLM to connect to the external data that is our knowledge base.
-- `pip3 install gpt_index`
+- ```pip3 install gpt_index``` </br>
 
 Once done, install PyPDF2 Its python based PDF parsing library and needed if you are going to feed PDF files to model.
-- `pip3 install PyPDF2`
+- ```pip3 install PyPDF2``` </br>
 
 and finally install gradio which creates simple UI to interact with AI chatgpt.
-- `pip3 install gradio`
+- ```pip3 install gradio``` </br>
 
 Finally we are done with installing libraries and we can move on to creating script for training and prepare data as well.
