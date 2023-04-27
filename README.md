@@ -14,7 +14,11 @@ First command installs OpenAI library: </br>
   ``` 
 </br>
 Next, install GPT index, which is also called LlamaIndex. It allows the LLM to connect to the external data that is our knowledge base. </br>
-* pip3 install gpt_index </br>
+
+* ```
+   pip3 install gpt_index 
+  ```
+  </br>
  
 
 Once done, install PyPDF2 Its python based PDF parsing library and needed if you are going to feed PDF files to model.
