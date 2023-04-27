@@ -20,3 +20,7 @@ and finally install gradio which creates simple UI to interact with AI chatgpt.
 - ```pip3 install gradio``` </br>
 
 Finally we are done with installing libraries and we can move on to creating script for training and prepare data as well.
+
+#### Step 4: Get OpenAI key </br>
+Before diving into script, lets get API key from Open AI You can then click on Create new secret key to generate a key for our script
+Remember that once key is generated, you won’t be able to see it again. You must copy and save the key in some secure location to be able to access it later.
