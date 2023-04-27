@@ -5,7 +5,9 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
 #### Step 1: Install python </br>
 
 #### Step 2: Upgrade Pip </br>
-- python3 -m pip install -U pip
+* ```
+  python3 -m pip install -U pip
+  ```
 
 #### Step 3: Install libraries </br>
 First command installs OpenAI library: </br>
