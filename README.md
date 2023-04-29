@@ -9,7 +9,6 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
   python3 -m pip install -U pip
   ```
 ####  Step 3: create virtual environment </br>
-
 * ```
 python -m venv venv
 ```
