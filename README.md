@@ -13,7 +13,12 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
 * ``` 
   python -m venv venv 
   ``` 
-#### Step 4: Install libraries </br>
+
+#### Step 4: activate environment </br>
+* ```
+  venv\Scripts\activate # for windows
+  ```
+#### Step 5: Install libraries </br>
 First command installs OpenAI library: </br>
 * ```
   pip3 install openai 
@@ -41,13 +46,13 @@ and finally install gradio which creates simple UI to interact with AI chatgpt.
 
 Finally we are done with installing libraries and we can move on to creating script for training and prepare data as well.
 
-#### Step 5: Get OpenAI key </br>
+#### Step 6: Get OpenAI key </br>
 Before diving into script, lets get API key from Open AI You can then click on Create new secret key to generate a key for our script
 Remember that once key is generated, you won’t be able to see it again. You must copy and save the key in some secure location to be able to access it later.
 
-#### Step 6: Prepare data </br>
+#### Step 7: Prepare data </br>
 Create a new directory named ‘docs’ anywhere you like and put PDF, TXT or CSV files inside it. You can add multiple files if you like but remember that more data you add, more the tokens will be used. Free accounts are given 18$ worth of tokens to use.
 
-#### Step 7: Create script </br>
+#### Step 8: Create script </br>
 Now that everything is in place, our next step is to create a python script to train chatbot with custom data. It will use files inside doc directory, that we created above, and generate a json file.
 You can use any text editor if you are using Visual Studio Code then its even better.
