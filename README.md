@@ -16,7 +16,7 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
 
 #### Step 4: activate environment </br>
 * ```
-  venv\Scripts\activate # for windows
+  venv\Scripts\activate
   ```
 #### Step 5: Install libraries </br>
 First command installs OpenAI library: </br>
