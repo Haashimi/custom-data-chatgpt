@@ -29,6 +29,7 @@ Once done, install PyPDF2 Its python based PDF parsing library and needed if you
   ``` 
 </br>
 and finally install gradio which creates simple UI to interact with AI chatgpt.
+
 * ```
    pip3 install gradio
   ``` 
