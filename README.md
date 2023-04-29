@@ -8,8 +8,12 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
 * ```
   python3 -m pip install -U pip
   ```
+####  Step 3: create virtual environment </br>
 
-#### Step 3: Install libraries </br>
+* ```
+python -m venv venv
+```
+#### Step 4: Install libraries </br>
 First command installs OpenAI library: </br>
 * ```
   pip3 install openai 
