@@ -6,8 +6,10 @@ Building your own AI-powered chatbot has never been easier. With OpenAI’s Chat
 
 #### Step 2: Upgrade Pip </br>
 * ```
-  python3 -m pip install -U pip
+   python3 -m pip install -U pip
   ```
+
+  </br>
 #### Step 3: create virtual environment </br>
 * ``` python -m venv venv 
   ``` 
